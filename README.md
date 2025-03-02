@@ -11,8 +11,6 @@ This project aims to provide a clear and accessible implementation of two common
 
 * **MATLAB:**  A properly licensed installation of MATLAB is required to run the code and Simulink models.
 * **Simulink:** The Simulink toolbox is necessary for executing the Simulink models.
-* **[Optional Toolboxes]:** List any additional toolboxes needed (if any).
-
 
 ## Usage Instructions
 
